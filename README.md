@@ -7,6 +7,6 @@ Then I have used the k-neighbours classification algorithm from the neighbours m
 Now, I proceeded to the verification stage. 
 Using the confusion_matrix function from the metrics module, I created a confsion matrix to form a an easily comprehensible performance report of the classifier.
 Finally, I have used the seaborn library to create an intuitive visual representation of the confusion matrix.
-In addition, I created  a classification report using the metrics module form the scikit-learn library to display various perfromance mtrics of the classifier like f1 score, precision, recall and support.
+In addition, I created  a classification report using the metrics module form the scikit-learn library to display various perfromance metrics of the classifier like f1 score, precision, recall and support.
 
 
